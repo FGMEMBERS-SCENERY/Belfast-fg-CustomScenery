@@ -1,0 +1,1 @@
+Simply overwrite the EGAC.btg.gz inside TerraSync; make sure to keep a backup!
